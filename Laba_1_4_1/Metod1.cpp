@@ -1,3 +1,4 @@
+
 #include "Metod1.h"
 //#include <iostream>
 using namespace std;
